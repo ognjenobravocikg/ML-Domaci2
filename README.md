@@ -1,7 +1,12 @@
-# ML-Domaci2
-Student: Ognjen Obradović 631/2021 RTSI
+# ML-TitanicSurvivorPredictor
 
-Domaći zadatak: Potrebno je napraviti model mašinskog učenja tako da predvidi prema odredjenim kolonama, da li je putnik preživeo ili poginuo. Opis koda je dat kroz komentare u samom kodu. Koristio sam model linearne regresije, jer se pokazao kao najoptimalnijim u kaggle takmičenju. Postigao sam tačnost od 0.76555.
+Coursework project for class Machine Learning: Survivor Predictor of the Titanic crash.
+
+Model that predicts wheter the person survived the Titanic crash, link to the problem as well as the dataset:
+https://www.kaggle.com/competitions/titanic
+
+Achieved success percentage: 0.7655.
 ![image](https://github.com/ognjenobravocikg/ML-Domaci2/assets/94371789/791bedb7-33a2-405d-a89c-1a3b060bdec5)
 
-Link ka kaggle takmičenju: https://www.kaggle.com/competitions/titanic
+Student: 
+Ognjen Obradović
